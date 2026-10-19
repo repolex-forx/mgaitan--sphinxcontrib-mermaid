@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mgaitan/sphinxcontrib-mermaid/commit/864b5436240962288f85ebd69884704aa1cca304",
       "git:hexsha": "864b5436240962288f85ebd69884704aa1cca304",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mgaitan/sphinxcontrib-mermaid/commit/b27f06a1a0e64ba0b435b2a3814e76f39c066e0e",
